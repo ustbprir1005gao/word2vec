@@ -1,0 +1,1 @@
+思想采用了google的word2vec，通过下载sougou语料库，同时对语料库进行预处理，分词等操作，训练出最终的词向量，vectors.bin
